@@ -120,6 +120,9 @@ int main() {
 
 ![Caeser-cipher](https://github.com/user-attachments/assets/d1b64661-02d1-4348-99a1-993e5aae7566)
 
+## RESULT:
+The program is executed successfully
+
 
 # PlayFair Cipher
 Playfair Cipher using with different key values
@@ -602,6 +605,3 @@ void decryptRailFence(char *cipherText, int key, char *plainText) {
 ## RESULT:
 The program is executed successfully
 
-
-## RESULT:
-The program is executed successfully
